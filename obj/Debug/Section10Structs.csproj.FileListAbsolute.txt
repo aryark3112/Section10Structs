@@ -1,0 +1,8 @@
+D:\28July\Section10Structs\Section10Structs\bin\Debug\Section10Structs.exe.config
+D:\28July\Section10Structs\Section10Structs\bin\Debug\Section10Structs.exe
+D:\28July\Section10Structs\Section10Structs\bin\Debug\Section10Structs.pdb
+D:\28July\Section10Structs\Section10Structs\obj\Debug\Section10Structs.csproj.AssemblyReference.cache
+D:\28July\Section10Structs\Section10Structs\obj\Debug\Section10Structs.csproj.SuggestedBindingRedirects.cache
+D:\28July\Section10Structs\Section10Structs\obj\Debug\Section10Structs.csproj.CoreCompileInputs.cache
+D:\28July\Section10Structs\Section10Structs\obj\Debug\Section10Structs.exe
+D:\28July\Section10Structs\Section10Structs\obj\Debug\Section10Structs.pdb
